@@ -1,0 +1,4 @@
+dir -  displays a list of files and subdirectories
+       in your current directory. 
+mkdir - The mkdir (or shorthand md) command creates a new folder
+cd -  Used to navigate between folders
